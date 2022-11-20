@@ -1,1 +1,3 @@
 this is a.txt File (Step B)
+Another line in file a (Step G)
+Edited a file (Step O)
